@@ -11,8 +11,8 @@
 ```JavaScript
 Hello, welcome to my Github Profile!
 
-I'm a web development student at Trybe 💚. Feel free to get to know my projects and talk to me about any questions
-or concerns.
+I'm a web development student at Trybe 💚. Feel free to get to know my projects and talk to me about any
+questions or concerns.
 
 const aboutMe = {
   name: 'Lucas de Assis',
